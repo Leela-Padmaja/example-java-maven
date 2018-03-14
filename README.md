@@ -1,5 +1,5 @@
 # [Codecov][1] Java Maven Example
-## Guide
+## Guide.
 ### Travis Setup
 
 Add to your `.travis.yml` file.
